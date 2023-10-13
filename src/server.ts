@@ -1,3 +1,5 @@
+//This is our server
+
 import app from "./app";
 
 const port = 3000;
