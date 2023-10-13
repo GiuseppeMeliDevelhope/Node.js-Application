@@ -4,7 +4,7 @@ import "express-async-errors";
 const app = express();
 
 //with .get() we are specifying the route path of the express server application 
-//.send is to send a message to the response body
+//.send is to send a message to the responsezzzz
 app.get("/", (request,response) => {
   response.send("Up and running!");
 })
