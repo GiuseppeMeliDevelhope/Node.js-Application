@@ -1,4 +1,4 @@
-//adding route to the server
+//adding api route to the server
 
 
 import express from "express";
